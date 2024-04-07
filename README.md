@@ -4,7 +4,7 @@ To use the model locally please follow the given steps
 3. Clone this repository. You will see there is a file named Modelfile.txt.
 4. Make sure the model(gguf file) and the Modelfile.txt are in the same directory.
 5. If you are using windows open powershell. On linux you can use the terminal.
-6. Run the command - ollama create hyperparam-rust -f <path of Modelfile.txt>
+6. Run the command - ollama create hyperparam-rust -f path of Modelfile.txt
 7. Open vscode and install the continue extension.
 8. After installation switch to the continue tab.
 9. On the bottom left corner you will see a list of models.
